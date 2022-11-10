@@ -1,1 +1,16 @@
-
+{
+        "ID": "1",
+        "Title": "Съехала верстка списка новостей в разделе Новости",
+         "Enviroment":"OS": "Windows 10 x64 build 19043", "Browser": "Opera 9.0.4447.83",
+         "Preconditional":"Перейти на сайт https://bilim-oral.gov.kz/ru/новости2.html",
+        "STR": [
+                "1.Перейти в раздел Новости",  
+        ],
+        "Actual result": "Съехала верстка списка новостей в разделе Новости",
+        "Expected result": "Список новостей размещены согласно верстке сайта",
+        "Severity": "Major",
+        "Priority": "Medium",
+        "Status": "Open",
+        "Author": "Lyalkov Stanislav",
+        "Attachments": "Link"
+}
